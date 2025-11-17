@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Meeting Notes",
+    "description": "Discussion about project milestones and upcoming deadlines. Need to finalize the Q1 roadmap.",
+    "category": "Work",
+    "createdAt": "2025-01-12T09:00:00Z"
+  },
+  {
+    "id": 2,
+    "title": "Weekend Plans",
+    "description": "Plan a hiking trip with friends. Check weather forecast and pack essentials.",
+    "category": "Personal",
+    "createdAt": "2025-01-10T14:30:00Z"
+  },
+  {
+    "id": 3,
+    "title": "App Idea",
+    "description": "Create a mobile app for local restaurant recommendations based on mood and preferences.",
+    "category": "Ideas",
+    "createdAt": "2025-01-08T11:15:00Z"
+  },
+  {
+    "id": 4,
+    "title": "Shopping List",
+    "description": "Grocery shopping: Milk, Eggs, Bread, Vegetables, Fruits",
+    "category": "Personal",
+    "createdAt": "2025-01-11T08:00:00Z"
+  },
+  {
+    "id": 5,
+    "title": "Project Documentation",
+    "description": "Update API documentation and create user guides for the new feature release.",
+    "category": "Work",
+    "createdAt": "2025-01-09T16:45:00Z"
+  }
+]
+
